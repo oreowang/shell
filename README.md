@@ -179,11 +179,11 @@ curl http://127.0.0.1:8000/v1/chat/completions \
 
 ## License
 
-社区使用Shell模型需要遵循[《CodeShell模型许可协议》](https://github.com/WisdomShell/shell/blob/main/License.pdf)及[Apache 2.0许可协议](https://www.apache.org/licenses/LICENSE-2.0)。CodeShell模型允许用于商业用途，但如果您计划将CodeShell模型或其派生产品用于商业用途，需要您确认主体符合以下条件：
+社区使用Shell模型需要遵循[《Shell模型许可协议》](https://github.com/WisdomShell/shell/blob/main/License.pdf)及[Apache 2.0许可协议](https://www.apache.org/licenses/LICENSE-2.0)。Shell模型允许用于商业用途，但如果您计划将Shell模型或其派生产品用于商业用途，需要您确认主体符合以下条件：
 
 1. 关联方的服务或产品的每日平均活跃用户数（DAU）不能超过100万。
 2. 关联方不得是软件服务提供商或云服务提供商。
 3. 关联方不存在将获得授予的商业许可，在未经许可的前提下将其再授权给其他第三方的可能性。
 
-在满足上述条件的前提下，您需要通过向codeshell.opensource@gmail.com发送电子邮件，提交《CodeShell模型许可协议》要求的申请材料。经审核通过后，将授予您一个全球的、非排他的、不可转让的、不可再授权的商业版权许可。
+在满足上述条件的前提下，您需要通过向shell.opensource@openbankai.com发送电子邮件，提交《Shell模型许可协议》要求的申请材料。经审核通过后，将授予您一个全球的、非排他的、不可转让的、不可再授权的商业版权许可。
 
